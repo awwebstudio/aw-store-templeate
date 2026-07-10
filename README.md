@@ -43,7 +43,29 @@ php artisan serve
 
 ## 📸 Screenshots
 
-Coming Soon...
+### Home
+![Home](screenshots/home.png)
+
+### Produk
+![Produk](screenshots/produk.png)
+
+### Keranjang
+![Keranjang](screenshots/keranjang.png)
+
+### Masukan Alamat
+![Masukan Alamat](screenshots/masukan-alamat.png)
+
+### Metode Pembayaran
+![Metode Pembayaran](screenshots/metode-pembayaran.png)
+
+### Dashboard Admin
+![Dashboard Admin](screenshots/dashboard-admin.png)
+
+### Kelola Produk
+![Kelola Produk](screenshots/kelola-produk.png)
+
+### Profil
+![Profil](screenshots/profil.png)
 
 ## 👨‍💻 Developer
 
